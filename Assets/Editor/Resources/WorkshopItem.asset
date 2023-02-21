@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5cf2299c8864afe4ab42466f546ae20d, type: 3}
+  m_Name: WorkshopItem
+  m_EditorClassIdentifier: 
+  WorkshopPublishedFileID: 960409429
+  Title: Hex To Decimal
+  Description: '"At least you''re niot Nintendo in the 1980''s figuring out how to
+    program the NES with 0''s and 1''s."
+
+
+    Comments:
+
+    I think I might have made the needy timer too long, but if you''re my sister,
+    you''re going to need the extra time. You''re trying to convert the hexadecimal
+    number to a base 10 number. It''s easy, but it wastes time. To submit, wait for
+    the time to drain.
+
+
+    Manual:
+
+    The manual can be found at: C:\Users\yourname\AppData\LocalLow\Steel Crate Games\Keep
+    Talking and Nobody Explodes\Manual'
+  PreviewImage: {fileID: 2800000, guid: cf69763b54b7457488e1cb97a4a4b8aa, type: 3}
+  Tags:
+  - Needy Module
